@@ -2,7 +2,7 @@
 
 **Per-tree Leaf Area Index and shade mapping of the urban canopy from national LiDAR.**
 
-> 🚧 **Release status.** This repository accompanies the manuscript *"Per-Tree Leaf Area Index Mapping Reveals an Invisible Urban Forest and Its Unequal Shade Capacity"* (under review at *Nature Cities*). The full processing pipeline and trained models will be released here **upon publication**. Until then this page is documentation only.
+> 🚧 **Release status.** This repository accompanies the manuscript *"Per-Tree Leaf Area Index Mapping Reveals an Invisible Urban Forest and Its Unequal Shade Capacity"* (under review). The full processing pipeline and trained models will be released here **upon publication**. Until then this page is documentation only.
 
 ## What this is
 
